@@ -1,39 +1,32 @@
-# Kode Program — Metode Numerik Menggunakan Python
+# Metode Numerik Menggunakan Python — NM26
 
-Repositori pendamping buku ajar **Metode Numerik Menggunakan Python**.
+Repositori pendamping buku ajar S1 Teknik Informatika.
 
-## Isi
+## Sumber kanonis dan kebijakan
 
-- `bab9_studi_kasus_metode_numerik.py` — skrip Python studi kasus utama Bab 9, diekstrak dari Lampiran A Word Master Revisi 52.
-- `requirements.txt` — pustaka Python yang dibutuhkan.
+Notebook utama setiap bab adalah `BabNN_kode_sumber_R53.ipynb`, diekstrak dari Word Master Revision 53. Kode sumber tidak ditulis ulang untuk membuatnya tampak berjalan. Fragmen yang membutuhkan konteks dari manuskrip dipertahankan sebagai teks berlabel, bukan dieksekusi. Pseudocode dan keluaran juga tetap dipisahkan dari kode Python.
 
-Skrip menghasilkan grafik dan ringkasan pemeriksaan numerik untuk studi kasus Bab 9. Berkas grafik ditempatkan pada folder `Bab9_Revision8_Grafik` di lokasi skrip.
+Bab 9 memakai skrip `Bab09_Studi_Kasus/bab9_studi_kasus_metode_numerik.py`.
 
-## Persyaratan
-
-- Python 3
-- NumPy
-- pandas
-- Matplotlib
-
-Pasang pustaka dengan:
+## Instalasi
 
 ```bash
 python -m pip install -r requirements.txt
 ```
 
-Jalankan skrip dari terminal:
+## Menjalankan studi kasus Bab 9
 
 ```bash
+cd Bab09_Studi_Kasus
 python bab9_studi_kasus_metode_numerik.py
 ```
 
-Atau unggah berkas ke GitHub lalu unduh berkas `.py` untuk dijalankan secara lokal.
+## QA
 
-## Catatan reproduksibilitas
+Baca `QA_PENCOCOKAN_WORD_MASTER_R53.md`, `QA_RELEASE_SCREENING.json`, dan laporan per bab. Notebook sumber telah diuji dengan mengeksekusi sel kode secara berurutan dalam namespace Python terisolasi untuk setiap bab. Sel yang membutuhkan konteks yang tidak tersedia diklasifikasikan sebagai teks sumber. Pemeriksaan ini tidak menggantikan verifikasi independen seluruh hasil matematis.
 
-Skrip ini diambil dari Lampiran A pada **Word Master Revisi 52**. Catatan editorial penutup lampiran tidak dimasukkan ke berkas `.py` karena bukan sintaks Python. Sebelum rilis publik, jalankan skrip pada lingkungan Python bersih dan cocokkan keluaran numerik serta grafiknya dengan Bab 9.
+## Status
 
-## Sitasi yang disarankan
+**Source-matched GitHub release candidate.** Sumber yang dipakai tercatat di `SOURCE_PROVENANCE.txt`. Belum ada klaim bahwa repositori remote telah diperbarui.
 
-Manembu, P. D. K. (2026). *Metode Numerik Menggunakan Python* (manuskrip pendamping; Revisi 52). Repositori kode pendamping Bab 9.
+Target repository: https://github.com/PedroJoTe/NM26

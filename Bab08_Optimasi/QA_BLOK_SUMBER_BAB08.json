@@ -1,0 +1,201 @@
+{
+  "source": "MNUP-Manuskrip-Gabungan-Revision53-Repository-Code-QA-Candidate.docx",
+  "chapter": 8,
+  "blocks_total": 32,
+  "python_syntax_blocks": 26,
+  "text_or_fragment_blocks": 6,
+  "blocks": [
+    {
+      "block": 1,
+      "paragraph_approx": 4445,
+      "style": "Code",
+      "syntax": "NOT_PYTHON_OR_FRAGMENT"
+    },
+    {
+      "block": 2,
+      "paragraph_approx": 4468,
+      "style": "Code",
+      "syntax": "PASS"
+    },
+    {
+      "block": 3,
+      "paragraph_approx": 4471,
+      "style": "Code",
+      "syntax": "PASS"
+    },
+    {
+      "block": 4,
+      "paragraph_approx": 4474,
+      "style": "Code",
+      "syntax": "PASS"
+    },
+    {
+      "block": 5,
+      "paragraph_approx": 4477,
+      "style": "Code",
+      "syntax": "NOT_PYTHON_OR_FRAGMENT"
+    },
+    {
+      "block": 6,
+      "paragraph_approx": 4603,
+      "style": "Code",
+      "syntax": "NOT_PYTHON_OR_FRAGMENT"
+    },
+    {
+      "block": 7,
+      "paragraph_approx": 4627,
+      "style": "Code",
+      "syntax": "PASS"
+    },
+    {
+      "block": 8,
+      "paragraph_approx": 4630,
+      "style": "Code",
+      "syntax": "PASS"
+    },
+    {
+      "block": 9,
+      "paragraph_approx": 4634,
+      "style": "Code",
+      "syntax": "PASS"
+    },
+    {
+      "block": 10,
+      "paragraph_approx": 4638,
+      "style": "Code",
+      "syntax": "PASS"
+    },
+    {
+      "block": 11,
+      "paragraph_approx": 4642,
+      "style": "Code",
+      "syntax": "NOT_PYTHON_OR_FRAGMENT"
+    },
+    {
+      "block": 12,
+      "paragraph_approx": 4665,
+      "style": "Code",
+      "syntax": "PASS"
+    },
+    {
+      "block": 13,
+      "paragraph_approx": 4796,
+      "style": "Code",
+      "syntax": "NOT_PYTHON_OR_FRAGMENT"
+    },
+    {
+      "block": 14,
+      "paragraph_approx": 4814,
+      "style": "Code",
+      "syntax": "PASS"
+    },
+    {
+      "block": 15,
+      "paragraph_approx": 4817,
+      "style": "Code",
+      "syntax": "PASS"
+    },
+    {
+      "block": 16,
+      "paragraph_approx": 4821,
+      "style": "Code",
+      "syntax": "PASS"
+    },
+    {
+      "block": 17,
+      "paragraph_approx": 4825,
+      "style": "Code",
+      "syntax": "NOT_PYTHON_OR_FRAGMENT"
+    },
+    {
+      "block": 18,
+      "paragraph_approx": 4828,
+      "style": "Code",
+      "syntax": "PASS"
+    },
+    {
+      "block": 19,
+      "paragraph_approx": 4893,
+      "style": "Code",
+      "syntax": "PASS"
+    },
+    {
+      "block": 20,
+      "paragraph_approx": 4896,
+      "style": "Code",
+      "syntax": "PASS"
+    },
+    {
+      "block": 21,
+      "paragraph_approx": 4898,
+      "style": "Code",
+      "syntax": "PASS"
+    },
+    {
+      "block": 22,
+      "paragraph_approx": 4920,
+      "style": "Code",
+      "syntax": "PASS"
+    },
+    {
+      "block": 23,
+      "paragraph_approx": 4922,
+      "style": "Code",
+      "syntax": "PASS"
+    },
+    {
+      "block": 24,
+      "paragraph_approx": 4924,
+      "style": "Code",
+      "syntax": "PASS"
+    },
+    {
+      "block": 25,
+      "paragraph_approx": 4926,
+      "style": "Code",
+      "syntax": "PASS"
+    },
+    {
+      "block": 26,
+      "paragraph_approx": 4928,
+      "style": "Code",
+      "syntax": "PASS"
+    },
+    {
+      "block": 27,
+      "paragraph_approx": 4932,
+      "style": "Code",
+      "syntax": "PASS"
+    },
+    {
+      "block": 28,
+      "paragraph_approx": 4934,
+      "style": "Code",
+      "syntax": "PASS"
+    },
+    {
+      "block": 29,
+      "paragraph_approx": 4936,
+      "style": "Code",
+      "syntax": "PASS"
+    },
+    {
+      "block": 30,
+      "paragraph_approx": 4942,
+      "style": "Code",
+      "syntax": "PASS"
+    },
+    {
+      "block": 31,
+      "paragraph_approx": 4951,
+      "style": "Code",
+      "syntax": "PASS"
+    },
+    {
+      "block": 32,
+      "paragraph_approx": 5121,
+      "style": "Code",
+      "syntax": "PASS"
+    }
+  ]
+}

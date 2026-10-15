@@ -1,0 +1,129 @@
+{
+  "source": "MNUP-Manuskrip-Gabungan-Revision53-Repository-Code-QA-Candidate.docx",
+  "chapter": 3,
+  "blocks_total": 20,
+  "python_syntax_blocks": 11,
+  "text_or_fragment_blocks": 9,
+  "blocks": [
+    {
+      "block": 1,
+      "paragraph_approx": 891,
+      "style": "CodeBlock",
+      "syntax": "NOT_PYTHON_OR_FRAGMENT"
+    },
+    {
+      "block": 2,
+      "paragraph_approx": 960,
+      "style": "CodeBlock",
+      "syntax": "PASS"
+    },
+    {
+      "block": 3,
+      "paragraph_approx": 1013,
+      "style": "CodeBlock",
+      "syntax": "PASS"
+    },
+    {
+      "block": 4,
+      "paragraph_approx": 1021,
+      "style": "CodeBlock",
+      "syntax": "NOT_PYTHON_OR_FRAGMENT"
+    },
+    {
+      "block": 5,
+      "paragraph_approx": 1024,
+      "style": "CodeBlock",
+      "syntax": "NOT_PYTHON_OR_FRAGMENT"
+    },
+    {
+      "block": 6,
+      "paragraph_approx": 1086,
+      "style": "CodeBlock",
+      "syntax": "NOT_PYTHON_OR_FRAGMENT"
+    },
+    {
+      "block": 7,
+      "paragraph_approx": 1150,
+      "style": "CodeBlock",
+      "syntax": "PASS"
+    },
+    {
+      "block": 8,
+      "paragraph_approx": 1210,
+      "style": "CodeBlock",
+      "syntax": "PASS"
+    },
+    {
+      "block": 9,
+      "paragraph_approx": 1214,
+      "style": "CodeBlock",
+      "syntax": "NOT_PYTHON_OR_FRAGMENT"
+    },
+    {
+      "block": 10,
+      "paragraph_approx": 1277,
+      "style": "CodeBlock",
+      "syntax": "NOT_PYTHON_OR_FRAGMENT"
+    },
+    {
+      "block": 11,
+      "paragraph_approx": 1328,
+      "style": "CodeBlock",
+      "syntax": "PASS"
+    },
+    {
+      "block": 12,
+      "paragraph_approx": 1370,
+      "style": "CodeBlock",
+      "syntax": "PASS"
+    },
+    {
+      "block": 13,
+      "paragraph_approx": 1377,
+      "style": "CodeBlock",
+      "syntax": "NOT_PYTHON_OR_FRAGMENT"
+    },
+    {
+      "block": 14,
+      "paragraph_approx": 1380,
+      "style": "CodeBlock",
+      "syntax": "NOT_PYTHON_OR_FRAGMENT"
+    },
+    {
+      "block": 15,
+      "paragraph_approx": 1444,
+      "style": "CodeBlock",
+      "syntax": "NOT_PYTHON_OR_FRAGMENT"
+    },
+    {
+      "block": 16,
+      "paragraph_approx": 1499,
+      "style": "CodeBlock",
+      "syntax": "PASS"
+    },
+    {
+      "block": 17,
+      "paragraph_approx": 1543,
+      "style": "CodeBlock",
+      "syntax": "PASS"
+    },
+    {
+      "block": 18,
+      "paragraph_approx": 1546,
+      "style": "CodeBlock",
+      "syntax": "PASS"
+    },
+    {
+      "block": 19,
+      "paragraph_approx": 1625,
+      "style": "CodeBlock",
+      "syntax": "PASS"
+    },
+    {
+      "block": 20,
+      "paragraph_approx": 1639,
+      "style": "CodeBlock",
+      "syntax": "PASS"
+    }
+  ]
+}

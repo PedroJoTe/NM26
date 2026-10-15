@@ -1,0 +1,49 @@
+{
+  "table_blocks_found": 15,
+  "added": 15,
+  "syntax_pass": 15,
+  "not_single_python_cell": 0,
+  "isolated_exec_pass": 7,
+  "isolated_exec_errors": [
+    {
+      "block": 5,
+      "type": "NameError",
+      "message": "name 'np' is not defined"
+    },
+    {
+      "block": 8,
+      "type": "NameError",
+      "message": "name 'np' is not defined"
+    },
+    {
+      "block": 9,
+      "type": "NameError",
+      "message": "name 'np' is not defined"
+    },
+    {
+      "block": 10,
+      "type": "NameError",
+      "message": "name 'np' is not defined"
+    },
+    {
+      "block": 12,
+      "type": "NameError",
+      "message": "name 'x_data' is not defined"
+    },
+    {
+      "block": 13,
+      "type": "NameError",
+      "message": "name 'linear_interpolation' is not defined"
+    },
+    {
+      "block": 14,
+      "type": "NameError",
+      "message": "name 'linear_regression' is not defined"
+    },
+    {
+      "block": 15,
+      "type": "NameError",
+      "message": "name 'x_data' is not defined"
+    }
+  ]
+}

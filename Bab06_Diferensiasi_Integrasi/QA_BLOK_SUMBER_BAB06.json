@@ -1,0 +1,117 @@
+{
+  "source": "MNUP-Manuskrip-Gabungan-Revision53-Repository-Code-QA-Candidate.docx",
+  "chapter": 6,
+  "blocks_total": 18,
+  "python_syntax_blocks": 13,
+  "text_or_fragment_blocks": 5,
+  "blocks": [
+    {
+      "block": 1,
+      "paragraph_approx": 3276,
+      "style": "Code",
+      "syntax": "NOT_PYTHON_OR_FRAGMENT"
+    },
+    {
+      "block": 2,
+      "paragraph_approx": 3283,
+      "style": "Code",
+      "syntax": "NOT_PYTHON_OR_FRAGMENT"
+    },
+    {
+      "block": 3,
+      "paragraph_approx": 3290,
+      "style": "Code",
+      "syntax": "NOT_PYTHON_OR_FRAGMENT"
+    },
+    {
+      "block": 4,
+      "paragraph_approx": 3323,
+      "style": "Code",
+      "syntax": "PASS"
+    },
+    {
+      "block": 5,
+      "paragraph_approx": 3325,
+      "style": "Code",
+      "syntax": "PASS"
+    },
+    {
+      "block": 6,
+      "paragraph_approx": 3327,
+      "style": "Code",
+      "syntax": "PASS"
+    },
+    {
+      "block": 7,
+      "paragraph_approx": 3364,
+      "style": "Code",
+      "syntax": "PASS"
+    },
+    {
+      "block": 8,
+      "paragraph_approx": 3394,
+      "style": "Code",
+      "syntax": "NOT_PYTHON_OR_FRAGMENT"
+    },
+    {
+      "block": 9,
+      "paragraph_approx": 3410,
+      "style": "Code",
+      "syntax": "NOT_PYTHON_OR_FRAGMENT"
+    },
+    {
+      "block": 10,
+      "paragraph_approx": 3429,
+      "style": "Code",
+      "syntax": "PASS"
+    },
+    {
+      "block": 11,
+      "paragraph_approx": 3431,
+      "style": "Code",
+      "syntax": "PASS"
+    },
+    {
+      "block": 12,
+      "paragraph_approx": 3433,
+      "style": "Code",
+      "syntax": "PASS"
+    },
+    {
+      "block": 13,
+      "paragraph_approx": 3455,
+      "style": "Code",
+      "syntax": "PASS"
+    },
+    {
+      "block": 14,
+      "paragraph_approx": 3489,
+      "style": "Code",
+      "syntax": "PASS"
+    },
+    {
+      "block": 15,
+      "paragraph_approx": 3491,
+      "style": "Code",
+      "syntax": "PASS"
+    },
+    {
+      "block": 16,
+      "paragraph_approx": 3500,
+      "style": "Code",
+      "syntax": "PASS"
+    },
+    {
+      "block": 17,
+      "paragraph_approx": 3502,
+      "style": "Code",
+      "syntax": "PASS"
+    },
+    {
+      "block": 18,
+      "paragraph_approx": 3556,
+      "style": "Code",
+      "syntax": "PASS"
+    }
+  ]
+}

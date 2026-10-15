@@ -1,0 +1,132 @@
+{
+  "canonical_source": "MNUP-Manuskrip-Gabungan-Revision53-Repository-Code-QA-Candidate.docx",
+  "notebook_tests": [
+    {
+      "file": "Bab01_Pengantar/Bab01_kode_sumber_R53.ipynb",
+      "initial_code_cells": 8,
+      "fragments_as_text": 0,
+      "demoted": [],
+      "rerun_errors": [],
+      "status": "PASS"
+    },
+    {
+      "file": "Bab02_Galat_Akurasi_Presisi/Bab02_kode_sumber_R53.ipynb",
+      "initial_code_cells": 12,
+      "fragments_as_text": 0,
+      "demoted": [],
+      "rerun_errors": [],
+      "status": "PASS"
+    },
+    {
+      "file": "Bab03_Akar_Nonlinear/Bab03_kode_sumber_R53.ipynb",
+      "initial_code_cells": 6,
+      "fragments_as_text": 0,
+      "demoted": [],
+      "rerun_errors": [],
+      "status": "PASS"
+    },
+    {
+      "file": "Bab04_Sistem_Persamaan_Linear/Bab04_kode_sumber_R53.ipynb",
+      "initial_code_cells": 11,
+      "fragments_as_text": 0,
+      "demoted": [],
+      "rerun_errors": [],
+      "status": "PASS"
+    },
+    {
+      "file": "Bab05_Interpolasi_Aproksimasi/Bab05_kode_sumber_R53.ipynb",
+      "initial_code_cells": 15,
+      "fragments_as_text": 0,
+      "demoted": [],
+      "rerun_errors": [],
+      "status": "PASS"
+    },
+    {
+      "file": "Bab06_Diferensiasi_Integrasi/Bab06_kode_sumber_R53.ipynb",
+      "initial_code_cells": 13,
+      "fragments_as_text": 0,
+      "demoted": [],
+      "rerun_errors": [],
+      "status": "PASS"
+    },
+    {
+      "file": "Bab07_Persamaan_Diferensial/Bab07_kode_sumber_R53.ipynb",
+      "initial_code_cells": 10,
+      "fragments_as_text": 0,
+      "demoted": [],
+      "rerun_errors": [],
+      "status": "PASS"
+    },
+    {
+      "file": "Bab08_Optimasi/Bab08_kode_sumber_R53.ipynb",
+      "initial_code_cells": 26,
+      "fragments_as_text": 9,
+      "demoted": [
+        {
+          "cell_index": 7,
+          "error": "NameError",
+          "message": "name 'b' is not defined",
+          "source": "x1 = b - r * (b - a)\nx2 = a + r * (b - a)"
+        },
+        {
+          "cell_index": 13,
+          "error": "NameError",
+          "message": "name 'df' is not defined",
+          "source": "d1 = df(x)"
+        },
+        {
+          "cell_index": 15,
+          "error": "NameError",
+          "message": "name 'd2f' is not defined",
+          "source": "d2 = d2f(x)"
+        },
+        {
+          "cell_index": 17,
+          "error": "NameError",
+          "message": "name 'x' is not defined",
+          "source": "x_new = x - d1 / d2"
+        },
+        {
+          "cell_index": 25,
+          "error": "NameError",
+          "message": "name 'grad_f' is not defined",
+          "source": "g = np.asarray(grad_f(x), dtype=float)"
+        },
+        {
+          "cell_index": 27,
+          "error": "NameError",
+          "message": "name 'g' is not defined",
+          "source": "grad_norm = np.linalg.norm(g)"
+        },
+        {
+          "cell_index": 30,
+          "error": "NameError",
+          "message": "name 'x' is not defined",
+          "source": "x = x - alpha * g"
+        },
+        {
+          "cell_index": 32,
+          "error": "NameError",
+          "message": "name 'max_iter' is not defined",
+          "source": "max_iter"
+        },
+        {
+          "cell_index": 56,
+          "error": "NameError",
+          "message": "name 'scipy' is not defined",
+          "source": "scipy.optimize.minimize()"
+        }
+      ],
+      "rerun_errors": [],
+      "status": "PASS"
+    },
+    {
+      "file": "Bab09_Studi_Kasus/Bab09_kode_ekstrak.ipynb",
+      "code_cells": 0,
+      "fragments_as_text": 0,
+      "status": "PASS documentation notebook"
+    }
+  ],
+  "bab9_script_exit_code": 0,
+  "bab9_stderr": ""
+}

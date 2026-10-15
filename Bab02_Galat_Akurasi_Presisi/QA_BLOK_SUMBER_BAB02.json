@@ -1,0 +1,81 @@
+{
+  "source": "MNUP-Manuskrip-Gabungan-Revision53-Repository-Code-QA-Candidate.docx",
+  "chapter": 2,
+  "blocks_total": 12,
+  "python_syntax_blocks": 12,
+  "text_or_fragment_blocks": 0,
+  "blocks": [
+    {
+      "block": 1,
+      "paragraph_approx": 419,
+      "style": "Code",
+      "syntax": "PASS"
+    },
+    {
+      "block": 2,
+      "paragraph_approx": 426,
+      "style": "Code",
+      "syntax": "PASS"
+    },
+    {
+      "block": 3,
+      "paragraph_approx": 451,
+      "style": "Code",
+      "syntax": "PASS"
+    },
+    {
+      "block": 4,
+      "paragraph_approx": 488,
+      "style": "Code",
+      "syntax": "PASS"
+    },
+    {
+      "block": 5,
+      "paragraph_approx": 493,
+      "style": "Code",
+      "syntax": "PASS"
+    },
+    {
+      "block": 6,
+      "paragraph_approx": 503,
+      "style": "Code",
+      "syntax": "PASS"
+    },
+    {
+      "block": 7,
+      "paragraph_approx": 512,
+      "style": "Code",
+      "syntax": "PASS"
+    },
+    {
+      "block": 8,
+      "paragraph_approx": 541,
+      "style": "Code",
+      "syntax": "PASS"
+    },
+    {
+      "block": 9,
+      "paragraph_approx": 573,
+      "style": "Code",
+      "syntax": "PASS"
+    },
+    {
+      "block": 10,
+      "paragraph_approx": 612,
+      "style": "Code",
+      "syntax": "PASS"
+    },
+    {
+      "block": 11,
+      "paragraph_approx": 676,
+      "style": "Code",
+      "syntax": "PASS"
+    },
+    {
+      "block": 12,
+      "paragraph_approx": 682,
+      "style": "Code",
+      "syntax": "PASS"
+    }
+  ]
+}

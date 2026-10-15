@@ -1,0 +1,3 @@
+Canonical source: MNUP-Manuskrip-Gabungan-Revision53-Repository-Code-QA-Candidate.docx
+SHA256: 4a36ee059c9c34378ec5b61d98618916085c3cd5c0fd59a668505cead4249c85
+Extraction date: 2026-10-15

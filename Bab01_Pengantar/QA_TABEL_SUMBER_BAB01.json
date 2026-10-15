@@ -1,0 +1,14 @@
+{
+  "table_blocks_found": 8,
+  "added": 8,
+  "syntax_pass": 8,
+  "not_single_python_cell": 0,
+  "isolated_exec_pass": 7,
+  "isolated_exec_errors": [
+    {
+      "block": 8,
+      "type": "NameError",
+      "message": "name 'bandwidth' is not defined"
+    }
+  ]
+}

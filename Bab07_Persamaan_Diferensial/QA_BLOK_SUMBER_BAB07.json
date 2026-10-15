@@ -1,0 +1,141 @@
+{
+  "source": "MNUP-Manuskrip-Gabungan-Revision53-Repository-Code-QA-Candidate.docx",
+  "chapter": 7,
+  "blocks_total": 22,
+  "python_syntax_blocks": 13,
+  "text_or_fragment_blocks": 9,
+  "blocks": [
+    {
+      "block": 1,
+      "paragraph_approx": 3696,
+      "style": "Normal",
+      "syntax": "NOT_PYTHON_OR_FRAGMENT"
+    },
+    {
+      "block": 2,
+      "paragraph_approx": 3724,
+      "style": "Normal",
+      "syntax": "PASS"
+    },
+    {
+      "block": 3,
+      "paragraph_approx": 3728,
+      "style": "Normal",
+      "syntax": "PASS"
+    },
+    {
+      "block": 4,
+      "paragraph_approx": 3730,
+      "style": "Normal",
+      "syntax": "PASS"
+    },
+    {
+      "block": 5,
+      "paragraph_approx": 3732,
+      "style": "Normal",
+      "syntax": "PASS"
+    },
+    {
+      "block": 6,
+      "paragraph_approx": 3738,
+      "style": "Normal",
+      "syntax": "PASS"
+    },
+    {
+      "block": 7,
+      "paragraph_approx": 3903,
+      "style": "Normal",
+      "syntax": "NOT_PYTHON_OR_FRAGMENT"
+    },
+    {
+      "block": 8,
+      "paragraph_approx": 3914,
+      "style": "Normal",
+      "syntax": "NOT_PYTHON_OR_FRAGMENT"
+    },
+    {
+      "block": 9,
+      "paragraph_approx": 3946,
+      "style": "Normal",
+      "syntax": "PASS"
+    },
+    {
+      "block": 10,
+      "paragraph_approx": 3948,
+      "style": "Normal",
+      "syntax": "PASS"
+    },
+    {
+      "block": 11,
+      "paragraph_approx": 3954,
+      "style": "Normal",
+      "syntax": "PASS"
+    },
+    {
+      "block": 12,
+      "paragraph_approx": 3971,
+      "style": "Normal",
+      "syntax": "PASS"
+    },
+    {
+      "block": 13,
+      "paragraph_approx": 3994,
+      "style": "Normal",
+      "syntax": "NOT_PYTHON_OR_FRAGMENT"
+    },
+    {
+      "block": 14,
+      "paragraph_approx": 3999,
+      "style": "Normal",
+      "syntax": "NOT_PYTHON_OR_FRAGMENT"
+    },
+    {
+      "block": 15,
+      "paragraph_approx": 4022,
+      "style": "Normal",
+      "syntax": "PASS"
+    },
+    {
+      "block": 16,
+      "paragraph_approx": 4038,
+      "style": "Normal",
+      "syntax": "PASS"
+    },
+    {
+      "block": 17,
+      "paragraph_approx": 4040,
+      "style": "Normal",
+      "syntax": "PASS"
+    },
+    {
+      "block": 18,
+      "paragraph_approx": 4068,
+      "style": "Normal",
+      "syntax": "PASS"
+    },
+    {
+      "block": 19,
+      "paragraph_approx": 4147,
+      "style": "Normal",
+      "syntax": "NOT_PYTHON_OR_FRAGMENT"
+    },
+    {
+      "block": 20,
+      "paragraph_approx": 4156,
+      "style": "Normal",
+      "syntax": "NOT_PYTHON_OR_FRAGMENT"
+    },
+    {
+      "block": 21,
+      "paragraph_approx": 4162,
+      "style": "Normal",
+      "syntax": "NOT_PYTHON_OR_FRAGMENT"
+    },
+    {
+      "block": 22,
+      "paragraph_approx": 4182,
+      "style": "Normal",
+      "syntax": "NOT_PYTHON_OR_FRAGMENT"
+    }
+  ]
+}
